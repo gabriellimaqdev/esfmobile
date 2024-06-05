@@ -64,7 +64,7 @@ div.link p{
 }
 
 div.link a {
-    background-color: #1C5A94;
+    background-color: #0c75d6;
     color: white;
     text-decoration: none;
     padding: 15px 15px 15px 15px;
@@ -73,7 +73,7 @@ div.link a {
 }
 
 div.link a:hover {
-    background-color: #2569a8;
+    background-color: #0d8aff;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.474);
 
 }
