@@ -16,6 +16,7 @@
 }
 
 html, body {
+    min-height: 70vh;
     background-color: #1C5A94;
     font-family: var(--fonte1);
 }
